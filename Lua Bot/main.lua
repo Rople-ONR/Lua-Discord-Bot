@@ -5,7 +5,7 @@ local client = discordia.Client()
 local prefix = "-"
 
 local hangangAPI = "http://api.hangang.life"
-
+-- 봇 상태 설정
 client:on('ready', function()
     local ActivityStates = {
         "인간시대의 끝이 도래했다",
@@ -21,7 +21,7 @@ client:on('ready', function()
     print('활성화 성공: '.. client.user.username)
 end)
 
-
+-- 2지선다
 client:on("messageCreate", function(message)
     if message.author.bot then return end
 
@@ -38,6 +38,7 @@ client:on("messageCreate", function(message)
     end
 end)
 
+-- 임배드 테스트
 client:on("messageCreate", function(message)
     if message.author.bot then return end
 
