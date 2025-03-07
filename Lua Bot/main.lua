@@ -4,7 +4,7 @@ local json = require("json")
 local client = discordia.Client()
 local prefix = "-"
 
-local hangangAPI = "http://api.hangang.life"
+
 -- 봇 상태 설정
 client:on('ready', function()
     local ActivityStates = {
