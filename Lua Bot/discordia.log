@@ -1,0 +1,243 @@
+2025-02-02 21:33:41 | [INFO]    | Discordia 2.13.0
+2025-02-02 21:33:41 | [INFO]    | Connecting to Discord...
+2025-02-02 21:33:42 | [INFO]    | Authenticated as AI로플#9141
+2025-02-02 21:33:42 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-02 21:33:42 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-02 21:33:42 | [INFO]    | Shard 0 : Received HELLO
+2025-02-02 21:33:43 | [INFO]    | Shard 0 : Received READY
+2025-02-02 21:33:43 | [WARNING] | C:\Users\user\Documents\Lua Bot\main.lua:7: Client.setGame is deprecated; use Client.setActivity instead
+2025-02-02 21:42:13 | [INFO]    | Discordia 2.13.0
+2025-02-02 21:42:13 | [INFO]    | Connecting to Discord...
+2025-02-02 21:42:15 | [INFO]    | Authenticated as AI로플#9141
+2025-02-02 21:42:15 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-02 21:42:16 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-02 21:42:16 | [INFO]    | Shard 0 : Received HELLO
+2025-02-02 21:42:16 | [INFO]    | Shard 0 : Received READY
+2025-02-02 21:42:16 | [WARNING] | C:\Users\user\Documents\Lua Bot\main.lua:7: Client.setGame is deprecated; use Client.setActivity instead
+2025-02-02 21:50:44 | [INFO]    | Discordia 2.13.0
+2025-02-02 21:50:44 | [INFO]    | Connecting to Discord...
+2025-02-02 21:50:45 | [INFO]    | Authenticated as AI로플#9141
+2025-02-02 21:50:45 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-02 21:50:45 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-02 21:50:45 | [INFO]    | Shard 0 : Received HELLO
+2025-02-02 21:50:45 | [INFO]    | Shard 0 : Received READY
+2025-02-02 21:50:56 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/765541481293152257/messages
+2025-02-02 21:51:20 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/765541481293152257/messages
+2025-02-02 21:53:25 | [INFO]    | Discordia 2.13.0
+2025-02-02 21:53:25 | [INFO]    | Connecting to Discord...
+2025-02-02 21:53:26 | [INFO]    | Authenticated as AI로플#9141
+2025-02-02 21:53:26 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-02 21:53:26 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-02 21:53:26 | [INFO]    | Shard 0 : Received HELLO
+2025-02-02 21:53:26 | [INFO]    | Shard 0 : Received READY
+2025-02-02 22:00:45 | [INFO]    | Discordia 2.13.0
+2025-02-02 22:00:45 | [INFO]    | Connecting to Discord...
+2025-02-02 22:00:46 | [INFO]    | Authenticated as AI로플#9141
+2025-02-02 22:00:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-02 22:00:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-02 22:00:46 | [INFO]    | Shard 0 : Received HELLO
+2025-02-02 22:00:46 | [INFO]    | Shard 0 : Received READY
+2025-02-02 22:02:24 | [INFO]    | Discordia 2.13.0
+2025-02-02 22:02:24 | [INFO]    | Connecting to Discord...
+2025-02-02 22:02:24 | [INFO]    | Authenticated as AI로플#9141
+2025-02-02 22:02:24 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-02 22:02:24 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-02 22:02:24 | [INFO]    | Shard 0 : Received HELLO
+2025-02-02 22:02:25 | [INFO]    | Shard 0 : Received READY
+2025-02-02 22:03:46 | [INFO]    | Discordia 2.13.0
+2025-02-02 22:03:46 | [INFO]    | Connecting to Discord...
+2025-02-02 22:03:46 | [INFO]    | Authenticated as AI로플#9141
+2025-02-02 22:03:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-02 22:03:47 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-02 22:03:47 | [INFO]    | Shard 0 : Received HELLO
+2025-02-02 22:03:47 | [INFO]    | Shard 0 : Received READY
+2025-02-02 22:06:00 | [INFO]    | Discordia 2.13.0
+2025-02-02 22:06:00 | [INFO]    | Connecting to Discord...
+2025-02-02 22:06:00 | [INFO]    | Authenticated as AI로플#9141
+2025-02-02 22:06:00 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-02 22:06:01 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-02 22:06:01 | [INFO]    | Shard 0 : Received HELLO
+2025-02-02 22:06:02 | [INFO]    | Shard 0 : Received READY
+2025-02-02 22:12:06 | [INFO]    | Discordia 2.13.0
+2025-02-02 22:12:06 | [INFO]    | Connecting to Discord...
+2025-02-02 22:12:06 | [INFO]    | Authenticated as AI로플#9141
+2025-02-02 22:12:06 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-02 22:12:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-02 22:12:07 | [INFO]    | Shard 0 : Received HELLO
+2025-02-02 22:12:07 | [INFO]    | Shard 0 : Received READY
+2025-02-02 22:14:22 | [INFO]    | Discordia 2.13.0
+2025-02-02 22:14:22 | [INFO]    | Connecting to Discord...
+2025-02-02 22:14:22 | [INFO]    | Authenticated as AI로플#9141
+2025-02-02 22:14:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-02 22:14:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-02 22:14:23 | [INFO]    | Shard 0 : Received HELLO
+2025-02-02 22:14:23 | [INFO]    | Shard 0 : Received READY
+2025-02-02 22:20:27 | [INFO]    | Discordia 2.13.0
+2025-02-02 22:20:27 | [INFO]    | Connecting to Discord...
+2025-02-02 22:20:27 | [INFO]    | Authenticated as AI로플#9141
+2025-02-02 22:20:27 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-02 22:20:27 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-02 22:20:27 | [INFO]    | Shard 0 : Received HELLO
+2025-02-02 22:20:27 | [INFO]    | Shard 0 : Received READY
+2025-02-02 22:21:21 | [INFO]    | Discordia 2.13.0
+2025-02-02 22:21:21 | [INFO]    | Connecting to Discord...
+2025-02-02 22:21:22 | [INFO]    | Authenticated as AI로플#9141
+2025-02-02 22:21:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-02 22:21:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-02 22:21:22 | [INFO]    | Shard 0 : Received HELLO
+2025-02-02 22:21:22 | [INFO]    | Shard 0 : Received READY
+2025-02-02 22:22:10 | [INFO]    | Discordia 2.13.0
+2025-02-02 22:22:10 | [INFO]    | Connecting to Discord...
+2025-02-02 22:22:11 | [INFO]    | Authenticated as AI로플#9141
+2025-02-02 22:22:11 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-02 22:22:12 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-02 22:22:12 | [INFO]    | Shard 0 : Received HELLO
+2025-02-02 22:22:12 | [INFO]    | Shard 0 : Received READY
+2025-02-02 22:31:34 | [INFO]    | Discordia 2.13.0
+2025-02-02 22:31:34 | [INFO]    | Connecting to Discord...
+2025-02-02 22:31:35 | [INFO]    | Authenticated as AI로플#1591
+2025-02-02 22:31:35 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-02 22:31:35 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-02 22:31:35 | [INFO]    | Shard 0 : Received HELLO
+2025-02-02 22:31:36 | [INFO]    | Shard 0 : Received READY
+2025-02-03 20:40:19 | [INFO]    | Discordia 2.13.0
+2025-02-03 20:40:19 | [INFO]    | Connecting to Discord...
+2025-02-03 20:40:20 | [INFO]    | Authenticated as AI로플#1591
+2025-02-03 20:40:21 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-03 20:40:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-03 20:40:21 | [INFO]    | Shard 0 : Received HELLO
+2025-02-03 20:40:22 | [INFO]    | Shard 0 : Received READY
+2025-02-03 20:52:39 | [INFO]    | Discordia 2.13.0
+2025-02-03 20:52:39 | [INFO]    | Connecting to Discord...
+2025-02-03 20:52:40 | [INFO]    | Authenticated as AI로플#1591
+2025-02-03 20:52:40 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-03 20:52:40 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-03 20:52:40 | [INFO]    | Shard 0 : Received HELLO
+2025-02-03 20:52:41 | [INFO]    | Shard 0 : Received READY
+2025-02-03 20:53:02 | [INFO]    | Discordia 2.13.0
+2025-02-03 20:53:02 | [INFO]    | Connecting to Discord...
+2025-02-03 20:53:02 | [INFO]    | Authenticated as AI로플#1591
+2025-02-03 20:53:02 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-03 20:53:03 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-03 20:53:03 | [INFO]    | Shard 0 : Received HELLO
+2025-02-03 20:53:03 | [INFO]    | Shard 0 : Received READY
+2025-02-03 20:53:51 | [INFO]    | Discordia 2.13.0
+2025-02-03 20:53:51 | [INFO]    | Connecting to Discord...
+2025-02-03 20:53:51 | [INFO]    | Authenticated as AI로플#1591
+2025-02-03 20:53:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-03 20:53:52 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-03 20:53:52 | [INFO]    | Shard 0 : Received HELLO
+2025-02-03 20:53:52 | [INFO]    | Shard 0 : Received READY
+2025-02-03 20:56:38 | [INFO]    | Discordia 2.13.0
+2025-02-03 20:56:38 | [INFO]    | Connecting to Discord...
+2025-02-03 20:56:38 | [INFO]    | Authenticated as AI로플#1591
+2025-02-03 20:56:38 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-03 20:56:38 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-03 20:56:38 | [INFO]    | Shard 0 : Received HELLO
+2025-02-03 20:56:38 | [INFO]    | Shard 0 : Received READY
+2025-02-03 21:23:58 | [INFO]    | Discordia 2.13.0
+2025-02-03 21:23:58 | [INFO]    | Connecting to Discord...
+2025-02-03 21:23:58 | [INFO]    | Authenticated as AI로플#1591
+2025-02-03 21:23:58 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-03 21:23:58 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-03 21:23:58 | [INFO]    | Shard 0 : Received HELLO
+2025-02-03 21:23:59 | [INFO]    | Shard 0 : Received READY
+2025-02-03 21:26:40 | [INFO]    | Discordia 2.13.0
+2025-02-03 21:26:40 | [INFO]    | Connecting to Discord...
+2025-02-03 21:26:41 | [INFO]    | Authenticated as AI로플#1591
+2025-02-03 21:26:41 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-03 21:26:41 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-03 21:26:41 | [INFO]    | Shard 0 : Received HELLO
+2025-02-03 21:26:41 | [INFO]    | Shard 0 : Received READY
+2025-02-03 21:27:50 | [INFO]    | Discordia 2.13.0
+2025-02-03 21:27:50 | [INFO]    | Connecting to Discord...
+2025-02-03 21:27:51 | [INFO]    | Authenticated as AI로플#1591
+2025-02-03 21:27:51 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-03 21:27:51 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-03 21:27:51 | [INFO]    | Shard 0 : Received HELLO
+2025-02-03 21:27:51 | [INFO]    | Shard 0 : Received READY
+2025-02-03 21:29:31 | [INFO]    | Discordia 2.13.0
+2025-02-03 21:29:31 | [INFO]    | Connecting to Discord...
+2025-02-03 21:29:31 | [INFO]    | Authenticated as AI로플#1591
+2025-02-03 21:29:31 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-03 21:29:32 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-03 21:29:32 | [INFO]    | Shard 0 : Received HELLO
+2025-02-03 21:29:32 | [INFO]    | Shard 0 : Received READY
+2025-02-03 21:35:47 | [INFO]    | Discordia 2.13.0
+2025-02-03 21:35:47 | [INFO]    | Connecting to Discord...
+2025-02-03 21:35:47 | [INFO]    | Authenticated as AI로플#1591
+2025-02-03 21:35:47 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-03 21:35:48 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-03 21:35:48 | [INFO]    | Shard 0 : Received HELLO
+2025-02-03 21:35:48 | [INFO]    | Shard 0 : Received READY
+2025-02-11 22:33:23 | [INFO]    | Discordia 2.13.0
+2025-02-11 22:33:23 | [INFO]    | Connecting to Discord...
+2025-02-11 22:33:24 | [INFO]    | Authenticated as AI로플#1591
+2025-02-11 22:33:25 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-11 22:33:25 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-11 22:33:25 | [INFO]    | Shard 0 : Received HELLO
+2025-02-11 22:33:26 | [INFO]    | Shard 0 : Received READY
+2025-02-27 10:51:02 | [INFO]    | Discordia 2.13.0
+2025-02-27 10:51:02 | [INFO]    | Connecting to Discord...
+2025-02-27 10:51:03 | [INFO]    | Authenticated as AI로플#1591
+2025-02-27 10:51:03 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-27 10:51:04 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-27 10:51:04 | [INFO]    | Shard 0 : Received HELLO
+2025-02-27 10:51:04 | [INFO]    | Shard 0 : Received READY
+2025-02-27 10:51:52 | [INFO]    | Discordia 2.13.0
+2025-02-27 10:51:52 | [INFO]    | Connecting to Discord...
+2025-02-27 10:51:53 | [INFO]    | Authenticated as AI로플#1591
+2025-02-27 10:51:53 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-27 10:51:53 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-27 10:51:53 | [INFO]    | Shard 0 : Received HELLO
+2025-02-27 10:51:53 | [INFO]    | Shard 0 : Received READY
+2025-02-27 10:53:54 | [INFO]    | Discordia 2.13.0
+2025-02-27 10:53:54 | [INFO]    | Connecting to Discord...
+2025-02-27 10:53:55 | [INFO]    | Authenticated as AI로플#1591
+2025-02-27 10:53:55 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-27 10:53:55 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-27 10:53:55 | [INFO]    | Shard 0 : Received HELLO
+2025-02-27 10:53:55 | [INFO]    | Shard 0 : Received READY
+2025-02-27 10:54:30 | [INFO]    | Discordia 2.13.0
+2025-02-27 10:54:30 | [INFO]    | Connecting to Discord...
+2025-02-27 10:54:31 | [INFO]    | Authenticated as AI로플#1591
+2025-02-27 10:54:31 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-27 10:54:31 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-27 10:54:31 | [INFO]    | Shard 0 : Received HELLO
+2025-02-27 10:54:31 | [INFO]    | Shard 0 : Received READY
+2025-02-27 10:57:21 | [INFO]    | Discordia 2.13.0
+2025-02-27 10:57:21 | [INFO]    | Connecting to Discord...
+2025-02-27 10:57:22 | [INFO]    | Authenticated as AI로플#1591
+2025-02-27 10:57:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-27 10:57:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-27 10:57:22 | [INFO]    | Shard 0 : Received HELLO
+2025-02-27 10:57:22 | [INFO]    | Shard 0 : Received READY
+2025-02-27 11:00:49 | [INFO]    | Discordia 2.13.0
+2025-02-27 11:00:49 | [INFO]    | Connecting to Discord...
+2025-02-27 11:00:49 | [INFO]    | Authenticated as AI로플#1591
+2025-02-27 11:00:49 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-27 11:00:49 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-27 11:00:49 | [INFO]    | Shard 0 : Received HELLO
+2025-02-27 11:00:50 | [INFO]    | Shard 0 : Received READY
+2025-02-27 11:02:59 | [INFO]    | Discordia 2.13.0
+2025-02-27 11:02:59 | [INFO]    | Connecting to Discord...
+2025-02-27 11:02:59 | [INFO]    | Authenticated as AI로플#1591
+2025-02-27 11:02:59 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-27 11:03:00 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-27 11:03:00 | [INFO]    | Shard 0 : Received HELLO
+2025-02-27 11:03:00 | [INFO]    | Shard 0 : Received READY
+2025-02-27 11:05:21 | [INFO]    | Discordia 2.13.0
+2025-02-27 11:05:21 | [INFO]    | Connecting to Discord...
+2025-02-27 11:05:22 | [INFO]    | Authenticated as AI로플#1591
+2025-02-27 11:05:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-27 11:05:22 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-27 11:05:22 | [INFO]    | Shard 0 : Received HELLO
+2025-02-27 11:05:22 | [INFO]    | Shard 0 : Received READY
+2025-02-27 11:06:38 | [INFO]    | Discordia 2.13.0
+2025-02-27 11:06:38 | [INFO]    | Connecting to Discord...
+2025-02-27 11:06:38 | [INFO]    | Authenticated as AI로플#1591
+2025-02-27 11:06:38 | [INFO]    | Launching shard 0 (1 out of 1)...
+2025-02-27 11:06:39 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2025-02-27 11:06:39 | [INFO]    | Shard 0 : Received HELLO
+2025-02-27 11:06:39 | [INFO]    | Shard 0 : Received READY
+2025-02-27 11:06:45 | [ERROR]   | 400 - Bad Request : POST https://discord.com/api/v8/channels/765541481293152257/messages
